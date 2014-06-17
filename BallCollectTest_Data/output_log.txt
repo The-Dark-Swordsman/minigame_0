@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\The Dark Swordsman\Desktop\Proj 1\BallCollectTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\The Dark Swordsman\Desktop\Proj 1\BallCollectTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\The Dark Swordsman\Desktop\Proj 1\BallCollectTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\The Dark Swordsman\Desktop\Proj 1\BallCollectTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.113 seconds
+desktop: 1920x1080 144Hz; virtual: 4608x2104 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
