@@ -14,12 +14,14 @@ To edit:
 
 ---
 
+
+Editing Game Files:
+
 1. Open Unity Editor
 2. Go to File > Open Project
 3. Select "minigame_0"
 4. Edit Away!
 
----
 
 Saving to Git:
 
