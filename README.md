@@ -31,6 +31,4 @@ Saving to Git:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*** Note: "Temp\UnityLockfile" is updated upon each save and (idk what it's for, but it) does NOT need to be committed. Usually trying to commit results in a commit error and it isn't committed.***
-
 ~~~Merry Christmas!~~~
