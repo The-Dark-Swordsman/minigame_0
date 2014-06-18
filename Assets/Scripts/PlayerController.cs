@@ -7,8 +7,8 @@ public class PlayerController : MonoBehaviour
 	public GUIText countText;
 	public GUIText winText;
 	public GUIText descText;
+	public bool keysEnabled;
 	private int count; 
-	
 
 	void Start ()
 	{
@@ -16,13 +16,12 @@ public class PlayerController : MonoBehaviour
 		SetCountText ();
 		winText.text = "";
 	}
-	
 	void FixedUpdate ()
 	{
 		float moveHorizontal = Input.GetAxis("Horizontal");
 		float moveVertical = Input.GetAxis ("Vertical");
 
-	Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
+		Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
 
 		rigidbody.AddForce(movement * speed * Time.deltaTime);
 	}
@@ -43,6 +42,7 @@ public class PlayerController : MonoBehaviour
 		if(count >= 0)
 		{
 			descText.text = "C'mon Hurry Up";
+			Debug.Log("Item Collected");
 		}
 		if(count >= 1)
 		{
