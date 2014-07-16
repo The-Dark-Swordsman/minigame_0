@@ -62,8 +62,7 @@ public class PlayerController : MonoBehaviour
 		}
 		if(count >= 13)
 		{
-			winText.text = "YOU WIN!";
-			descText.text = "Good Job ^_^";
+			Application.LoadLevel(2);
 		}
 	}
 }

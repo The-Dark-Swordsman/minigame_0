@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Furniture Pack 1 Free\Scripts\MouseOrbitZoom.js" />
+     <Compile Include="Assets\Scripts\GameEnd.js" />
      <Compile Include="Assets\Scripts\GameMenu.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
