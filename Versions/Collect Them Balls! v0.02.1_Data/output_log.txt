@@ -1,0 +1,80 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\The Dark Swordsman\Desktop\Proj 1\Collect Them Balls! v0.02.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\The Dark Swordsman\Desktop\Proj 1\Collect Them Balls! v0.02.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\The Dark Swordsman\Desktop\Proj 1\Collect Them Balls! v0.02.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\The Dark Swordsman\Desktop\Proj 1\Collect Them Balls! v0.02.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\The Dark Swordsman\Desktop\Proj 1\Collect Them Balls! v0.02.1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\The Dark Swordsman\Desktop\Proj 1\Collect Them Balls! v0.02.1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+desktop: 1920x1080 144Hz; virtual: 5760x2160 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.566201 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 235.
+Total: 0.917969 ms (FindLiveObjects: 0.016564 ms CreateObjectMapping: 0.015058 ms MarkObjects: 0.113541 ms  DeleteObjects: 0.023491 ms)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Item Collected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
