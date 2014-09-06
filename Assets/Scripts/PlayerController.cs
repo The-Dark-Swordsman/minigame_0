@@ -42,7 +42,7 @@ public class PlayerController : MonoBehaviour
 		if(count >= 0)
 		{
 			descText.text = "C'mon Hurry Up";
-			Debug.Log("Item Collected");
+			Debug.Log("Game Start");
 		}
 		if(count >= 1)
 		{
