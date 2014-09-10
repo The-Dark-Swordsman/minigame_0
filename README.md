@@ -8,7 +8,7 @@ Current Version: v1.0.0
 
 
 
-*FOR EDITORS ONLY*
+*FOR EDITORS ONLY*:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
