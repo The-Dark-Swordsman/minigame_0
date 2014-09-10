@@ -4,6 +4,12 @@
 
 If you would like to just run the game, go ahead and hit, "Collect Them Balls!.exe"
 
+Current Version: v1.0.0
+
+
+
+*FOR EDITORS ONLY*
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To edit:
