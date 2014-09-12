@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
 	public GUIText winText;
 	public GUIText descText;
 	public GUIText timerText;
+	public float timerCount = 0.0f;
 	public bool keysEnabled;
 	private int count;
 
@@ -22,7 +23,8 @@ public class PlayerController : MonoBehaviour
 
 	void Update ()
 	{
-		timerText.text = Time.deltaTime + " Seconds";
+		timerCount += Time.deltaTime;
+		timerText.text = timerCount + " Seconds";
 	}
 
 	void FixedUpdate ()
