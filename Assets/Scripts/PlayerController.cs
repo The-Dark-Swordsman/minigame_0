@@ -7,15 +7,24 @@ public class PlayerController : MonoBehaviour
 	public GUIText countText;
 	public GUIText winText;
 	public GUIText descText;
+	public GUIText timerText;
 	public bool keysEnabled;
-	private int count; 
+	private int count;
+
 
 	void Start ()
 	{
 		count = 0;
 		SetCountText ();
 		winText.text = "";
+		timerText.text = "0" + " Seconds";
 	}
+
+	void Update ()
+	{
+		timerText.text = Time.deltaTime + " Seconds";
+	}
+
 	void FixedUpdate ()
 	{
 		float moveHorizontal = Input.GetAxis("Horizontal");
